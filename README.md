@@ -1,3 +1,4 @@
+![logo](https://github.com/yassererrissoul/yassererrissoul/blob/main/Black%20%26%20White%20Modern%20Personal%20Branding%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm YASSER</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
