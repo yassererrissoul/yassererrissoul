@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassererrissoul&show_icons=true&locale=en" alt="yassererrissoul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassererrissoul&" alt="yassererrissoul" /></p>
+
+<p><img align="center" alt="coding" width="300" src="https://4.bp.blogspot.com/-Cin8U1jl2Bs/XErzkW1OQBI/AAAAAAAAEww/gzkNoWlpNpQDBl9EZ2-MIEnBO7buUEGQACK4BGAYYCw/s1600/programming.gif" /></p>
