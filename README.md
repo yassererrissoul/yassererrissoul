@@ -30,6 +30,6 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Yasser&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasser&show_icons=true&locale=en&layout=compact&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasser&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" alt="coding" width="400" src="https://4.bp.blogspot.com/-Cin8U1jl2Bs/XErzkW1OQBI/AAAAAAAAEww/gzkNoWlpNpQDBl9EZ2-MIEnBO7buUEGQACK4BGAYYCw/s1600/programming.gif" > <img src="https://i.pinimg.com/originals/46/16/3d/46163da5e8a1fa8e777a020607cddc1c.gif" alt="coding" width="400"/></p>
