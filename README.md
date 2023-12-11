@@ -2,11 +2,11 @@
 <h1 align="center">Its me YASSER 🪐</h1>
 <h3 align="center">I am a Programmer 💻​ From Morocco 🇲🇦</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassererrissoul&label=Profile%20views&color=0e75b6&style=flat" alt="yassererrissoul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassererrissoul&label=Profile%20views&color=0e75b6&style=flat&theme=tokyonight" alt="yassererrissoul" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassererrissoul" alt="yassererrissoul" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassererrissoul&theme=tokyonight" alt="yassererrissoul" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&theme=tokyonight" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **The C Language**
 
