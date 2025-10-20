@@ -1,6 +1,6 @@
 ![logo](https://github.com/yassererrissoul/yassererrissoul/blob/main/Black%20%26%20White%20Modern%20Personal%20Branding%20Youtube%20Banner.png)
 <h1 align="center">Its me YASSER 🪐</h1>
-<h3 align="center">I am a Programmer 💻​ From Morocco 🇲🇦</h3>
+<h3 align="center">I am a system and networking 💻​ From Morocco 🇲🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassererrissoul&label=Profile%20views&color=0e75b6&style=flat&theme=tokyonight" alt="yassererrissoul" /> </p>
 
@@ -8,13 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&theme=tokyonight" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **The C Language**
+- 🌱 I’m currently learning **The Python Language**
 
-- 📫 How to reach me **yassirerrissoul@gmail.com**
+- 📫 How to reach me **yassererrissoul@gmail.com**
 
 - 👨‍💻 All of my projects are available at **GitHub**
-
-- 💬 Ask me about **Programming** or **C language** or any information related to the field of **programming**.
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
