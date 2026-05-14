@@ -1,13 +1,5 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=yassererrissoul&style=for-the-badge&color=0d1117&labelColor=1f6feb&label=PROFILE+VIEWS)
-&nbsp;
-![](https://img.shields.io/github/followers/yassererrissoul?style=for-the-badge&color=0d1117&labelColor=1f6feb&label=FOLLOWERS)
-
-</div>
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Systems+%26+Networking+Student;Linux+%7C+Cisco+%7C+WireGuard;Python+%7C+Bash+%7C+Shell;TrueNAS+%7C+Virtualization;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/Zx1KzuQBR8wIbrm81t/giphy.gif" width="47%"/>
@@ -15,6 +7,14 @@
 <img src="https://media.giphy.com/media/KX5nwoDX97AtPvKBF6/giphy.gif" width="47%"/>
 
 <br/><br/>
+
+![](https://komarev.com/ghpvc/?username=yassererrissoul&style=for-the-badge&color=0d1117&labelColor=1f6feb&label=PROFILE+VIEWS)
+&nbsp;
+![](https://img.shields.io/github/followers/yassererrissoul?style=for-the-badge&color=0d1117&labelColor=1f6feb&label=FOLLOWERS)
+
+</div>
+
+<br/>
 
 ---
 
